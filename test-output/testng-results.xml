@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54077" started-at="2023-01-05T18:52:04 EST" finished-at="2023-01-05T18:52:58 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54077" started-at="2023-01-05T18:52:04 EST" finished-at="2023-01-05T18:52:58 EST">
+      <class name="utils.ExcelUtilsTest">
+        <test-method status="PASS" signature="test_var1()[pri:0, instance:utils.ExcelUtilsTest@5faeada1]" name="test_var1" duration-ms="54004" started-at="2023-01-05T18:52:04 EST" finished-at="2023-01-05T18:52:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_var1 -->
+      </class> <!-- utils.ExcelUtilsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
