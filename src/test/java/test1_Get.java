@@ -20,6 +20,8 @@ public class test1_Get {
 		System.out.println(r1);
 		
 	}
-	
+	public void BranchSetUp(){
+              system.out.println("I am creating this temporary method to learn aobut the Github Branch Concept");
+	}
 	
 }
