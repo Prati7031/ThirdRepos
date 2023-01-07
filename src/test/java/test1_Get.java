@@ -26,7 +26,10 @@ public class test1_Get {
 	
 	public void BranchSetUp1(){
         System.out.println("I am creating this temporary method to learn aobut the Github Branch Concept");
-}
+    }
+	public void BranchSetUp2(){
+        System.out.println("I am creating this temporary method to learn aobut the Github Branch Concept");
+    }
 	
 	
 }
